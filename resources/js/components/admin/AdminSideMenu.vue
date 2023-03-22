@@ -2,36 +2,6 @@
     <div class="nav"><a class="btn btn-expanded"></a>
         <nav class="nav-main-menu">
             <ul class="main-menu">
-                <!-- <li> <a class="dashboard2 active" href="index-2.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/dashboard.svg" alt="employZongo"><span
-                            class="name">Dashboard</span></a>
-                </li>
-                <li> <a class="dashboard2" href="candidates.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/candidates.svg" alt="employZongo"><span
-                            class="name">Candidates</span></a>
-                </li>
-                <li> <a class="dashboard2" href="recruiters.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/recruiters.svg" alt="employZongo"><span
-                            class="name">Jobs</span></a>
-                </li>
-                <li> <a class="dashboard2" href="my-job-grid.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/jobs.svg" alt="employZongo"><span
-                            class="name">Articles</span></a>
-                </li>
-                <li> <a class="dashboard2" href="my-tasks-list.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/tasks.svg" alt="employZongo"><span
-                            class="name">Skills
-                        </span></a>
-                </li>
-                <li> <a class="dashboard2" href="my-tasks-list.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/tasks.svg" alt="employZongo"><span
-                            class="name">Tags
-                        </span></a>
-                </li>
-                <li> <a class="dashboard2" href="my-tasks-list.html"><img
-                            src="../../../assets/admin/imgs/page/dashboard/tasks.svg" alt="employZongo"><span class="name">
-                            Settings</span></a>
-                </li> -->
                 <li>
                     <RouterLink class="dashboard2" to="/admin"><img
                             src="../../../assets/admin/imgs/page/dashboard/dashboard.svg" alt="employZongo"><span
@@ -70,7 +40,6 @@
                             alt="employZongo"><span class="name">Settings</span>
                     </RouterLink>
                 </li>
-                <!-- <RouterLink class="nav-link" to="/admin/candidates-list">Candidates</RouterLink> -->
             </ul>
         </nav>
         <div class="border-bottom mb-20 mt-20"></div>
