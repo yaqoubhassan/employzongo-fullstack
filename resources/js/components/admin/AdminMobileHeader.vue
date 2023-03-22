@@ -12,46 +12,47 @@
                         <!-- mobile menu start-->
                         <nav>
                             <ul class="main-menu">
-                                <li> <a class="dashboard2 active" href="index-2.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/dashboard.svg" alt="jobBox"><span
-                                            class="name">Dashboard</span></a>
+                                <li>
+                                    <RouterLink class="dashboard2" to="/admin"><img
+                                            src="../../../assets/admin/imgs/page/dashboard/dashboard.svg"
+                                            alt="employZongo"><span class="name">Dashboard</span>
+                                    </RouterLink>
                                 </li>
-                                <li> <a class="dashboard2" href="candidates.html"><img
+                                <li>
+                                    <RouterLink class="dashboard2" to="/admin/candidates-list"><img
                                             src="../../../assets/admin/imgs/page/dashboard/candidates.svg"
-                                            alt="jobBox"><span class="name">Candidates</span></a>
+                                            alt="employZongo"><span class="name">Candidates</span>
+                                    </RouterLink>
                                 </li>
-                                <li> <a class="dashboard2" href="recruiters.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/recruiters.svg"
-                                            alt="jobBox"><span class="name">Recruiters</span></a>
+                                <li>
+                                    <RouterLink class="dashboard2" to="/"><img
+                                            src="../../../assets/admin/imgs/page/dashboard/jobs.svg" alt="employZongo"><span
+                                            class="name">Jobs</span>
+                                    </RouterLink>
                                 </li>
-                                <li> <a class="dashboard2" href="my-job-grid.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/jobs.svg" alt="jobBox"><span
-                                            class="name">My
-                                            Jobs</span></a>
+                                <li>
+                                    <RouterLink class="dashboard2" to="/"><img
+                                            src="../../../assets/admin/imgs/page/dashboard/cv-manage.svg"
+                                            alt="employZongo"><span class="name">Articles</span>
+                                    </RouterLink>
                                 </li>
-                                <li> <a class="dashboard2" href="my-tasks-list.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/tasks.svg" alt="jobBox"><span
-                                            class="name">Tasks List</span></a>
+                                <li>
+                                    <RouterLink class="dashboard2" to="/"><img
+                                            src="../../../assets/admin/imgs/page/dashboard/tasks.svg"
+                                            alt="employZongo"><span class="name">Skills</span>
+                                    </RouterLink>
                                 </li>
-                                <li> <a class="dashboard2" href="profile.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/profiles.svg" alt="jobBox"><span
-                                            class="name">My Profiles</span></a>
+                                <li>
+                                    <RouterLink class="dashboard2" to="/"><img class="tag-icon"
+                                            src="../../../assets/admin/imgs/page/dashboard/tags.svg" alt="employZongo"><span
+                                            class="name">Tags</span>
+                                    </RouterLink>
                                 </li>
-                                <li> <a class="dashboard2" href="my-resume.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/cv-manage.svg" alt="jobBox"><span
-                                            class="name">CV Manage</span></a>
-                                </li>
-                                <li> <a class="dashboard2" href="settings.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/settings.svg" alt="jobBox"><span
-                                            class="name">Setting</span></a>
-                                </li>
-                                <li> <a class="dashboard2" href="authentication.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/authentication.svg"
-                                            alt="jobBox"><span class="name">Authentication</span></a>
-                                </li>
-                                <li> <a class="dashboard2" href="login.html"><img
-                                            src="../../../assets/admin/imgs/page/dashboard/logout.svg" alt="jobBox"><span
-                                            class="name">Logout</span></a>
+                                <li>
+                                    <RouterLink class="dashboard2" to="/"><img
+                                            src="../../../assets/admin/imgs/page/dashboard/settings.svg"
+                                            alt="employZongo"><span class="name">Settings</span>
+                                    </RouterLink>
                                 </li>
                             </ul>
                         </nav>
@@ -74,3 +75,23 @@
         </div>
     </div>
 </template>
+
+<style scoped>
+.tag-icon {
+    height: 25px;
+    filter: invert(48%) sepia(12%) saturate(1068%) hue-rotate(182deg) brightness(94%) contrast(93%);
+    stroke-width: 20px;
+
+}
+
+.router-link-exact-active,
+.nav-link:hover {
+    background-color: #3C65F5 !important;
+    color: #ffffff !important;
+    border-radius: 8px;
+}
+
+.router-link-exact-active img {
+    filter: invert(100%) sepia(50%) saturate(50%) hue-rotate(124deg) brightness(200%) contrast(100%);
+}
+</style>
