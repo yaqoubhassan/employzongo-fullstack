@@ -24,12 +24,17 @@ import Testimonials from '../components/Testimonials.vue'
 import ComingSoon from '../components/ComingSoon.vue'
 
 export default {
+    name: 'Home',
     components: {
         appHero: Hero,
         appJobsComponent: JobsComponent,
         appTopCandidates: TopCandidates,
         appTestimonials: Testimonials,
         appComingSoon: ComingSoon
-    }
+    },
+    // metaInfo: {
+    //     // title will be injected into parent titleTemplate
+    //     title: 'About Us'
+    // }
 }
 </script>

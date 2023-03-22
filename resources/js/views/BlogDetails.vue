@@ -188,15 +188,16 @@
                                                 <div class="col-lg-6 col-md-6 col-sm-7 mb-30">
                                                     <label class="box-agree">
                                                         <input class="chkbox-aggree" type="checkbox"><span
-                                                        class="font-sm color-text-paragraph">Save my name, email, and
-                                                        website in this browser for the next time I comment.</span>
-                                                </label>
+                                                            class="font-sm color-text-paragraph">Save my name, email, and
+                                                            website in this browser for the next time I comment.</span>
+                                                    </label>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-5 text-end">
+                                                    <button class="btn btn-default font-bold">Post comment</button>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-6 col-md-6 col-sm-5 text-end">
-                                                <button class="btn btn-default font-bold">Post comment</button>
-                                            </div>
-                                        </div>
-                                    </form>
+                                        </form>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -204,7 +205,7 @@
                 </div>
             </div>
         </div>
+        <div style="height: 100px"></div>
+        <app-newsletter></app-newsletter>
     </div>
-    <div style="height: 100px"></div>
-    <app-newsletter></app-newsletter>
-</div></template>
+</template>

@@ -29,7 +29,8 @@
                             </label><a class="text-muted" href="page-contact.html">Forgot Password</a>
                         </div>
                         <div class="form-group">
-                            <button class="btn btn-brand-1 hover-up w-100" type="submit" name="login">Login</button>
+                            <button class="btn btn-brand-1 hover-up w-100" type="submit" name="login"
+                                @click.prevent="navigateToDashboard">Login</button>
                         </div>
                         <div class="text-muted text-center">Don't have an Account? <a href="page-signin.html">Sign up</a>
                         </div>
@@ -37,7 +38,19 @@
                 </div>
                 <div class="img-1 d-none d-lg-block"><img class="shape-1"
                         src="../../assets/imgs/page/login-register/img-4.svg" alt="JobBox"></div>
-            <div class="img-2"><img src="../../assets/imgs/page/login-register/img-3.svg" alt="JobBox"></div>
+                <div class="img-2"><img src="../../assets/imgs/page/login-register/img-3.svg" alt="JobBox"></div>
+            </div>
         </div>
-    </div>
-</section></template>
+    </section>
+</template>
+
+<script>
+export default {
+    methods: {
+        navigateToDashboard() {
+            // window.location.reload();
+            this.$router.push('/admin')
+        }
+    }
+}
+</script>

@@ -352,4 +352,5 @@
         </section>
         <div style="height: 100px"></div>
         <app-newsletter></app-newsletter>
-</div></template>
+    </div>
+</template>

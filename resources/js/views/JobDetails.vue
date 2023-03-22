@@ -498,24 +498,25 @@
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
                                                     <div class="col-lg-7 col-7"><span
-                                                        class="card-text-price">$250</span><span
-                                                        class="text-muted">/Hour</span></div>
-                                                <div class="col-lg-5 col-5 text-end"><a class="btn btn-apply-now"
-                                                        href="job-details.html">Apply now</a></div>
+                                                            class="card-text-price">$250</span><span
+                                                            class="text-muted">/Hour</span></div>
+                                                    <div class="col-lg-5 col-5 text-end"><a class="btn btn-apply-now"
+                                                            href="job-details.html">Apply now</a></div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="swiper-button-next swiper-button-next-4"></div>
+                        <div class="swiper-button-prev swiper-button-prev-4"></div>
                     </div>
-                    <div class="swiper-button-next swiper-button-next-4"></div>
-                    <div class="swiper-button-prev swiper-button-prev-4"></div>
+                    <div class="text-center"><a class="btn btn-grey" href="#">Load more posts</a></div>
                 </div>
-                <div class="text-center"><a class="btn btn-grey" href="#">Load more posts</a></div>
             </div>
-        </div>
-    </section>
-    <div style="height: 100px"></div>
-    <app-newsletter></app-newsletter>
-</div></template>
+        </section>
+        <div style="height: 100px"></div>
+        <app-newsletter></app-newsletter>
+    </div>
+</template>
