@@ -10,6 +10,7 @@
         "vite": "^4.0.0"
     },
     "dependencies": {
+        "@aacassandra/vue3-progressbar": "^1.0.3",
         "@vitejs/plugin-vue": "^4.0.0",
         "vue": "^3.2.36",
         "vue-loader": "^17.0.1",
