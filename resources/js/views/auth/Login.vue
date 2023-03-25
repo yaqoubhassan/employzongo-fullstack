@@ -8,7 +8,7 @@
                         <h2 class="mt-10 mb-5 text-brand-1">Member Login</h2>
                         <p class="font-sm text-muted mb-30">Access to all features. No credit card required.</p>
                         <button class="btn social-login hover-up mb-20"><img
-                                src="../../assets/imgs/template/icons/icon-google.svg" alt="jobbox"><strong>Sign in with
+                                src="../../../assets/imgs/template/icons/icon-google.svg" alt="jobbox"><strong>Sign in with
                                 Google</strong></button>
                         <div class="divider-text-center"><span>Or continue with</span></div>
                     </div>
@@ -37,8 +37,8 @@
                     </form>
                 </div>
                 <div class="img-1 d-none d-lg-block"><img class="shape-1"
-                        src="../../assets/imgs/page/login-register/img-4.svg" alt="JobBox"></div>
-                <div class="img-2"><img src="../../assets/imgs/page/login-register/img-3.svg" alt="JobBox"></div>
+                        src="../../../assets/imgs/page/login-register/img-4.svg" alt="JobBox"></div>
+                <div class="img-2"><img src="../../../assets/imgs/page/login-register/img-3.svg" alt="JobBox"></div>
             </div>
         </div>
     </section>

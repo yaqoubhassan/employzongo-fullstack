@@ -5,8 +5,8 @@ import Blogs from '../views/Blogs.vue'
 import Candidates from '../views/Candidates.vue'
 import AboutUs from '../views/AboutUs.vue'
 import ContactUs from '../views/ContactUs.vue'
-import Register from '../views/Register.vue'
-import Login from '../views/Login.vue'
+import Register from '../views/auth/Register.vue'
+import Login from '../views/auth/Login.vue'
 import JobDetails from '../views/JobDetails.vue'
 import BlogDetails from '../views/BlogDetails.vue'
 import CandidateDetails from '../views/CandidateDetails.vue'
@@ -15,6 +15,7 @@ import AdminIndex from '../views/admin/AdminIndex.vue'
 import Dashboard from '../views/admin/Dashboard.vue'
 import CandidatesList from '../views/admin/Candidates.vue'
 import store from '../store/index.js'
+import Verify from '../views/auth/Verify.vue'
 
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
@@ -33,6 +34,7 @@ const router = createRouter({
                     { path: 'about-us', name: 'aboutus', component: AboutUs, meta: { title: 'EmployZongo - About Us' } },
                     { path: 'contact-us', name: 'contactus', component: ContactUs, meta: { title: 'EmployZongo - Contact Us' } },
                     { path: 'register', name: 'register', component: Register, meta: { title: 'EmployZongo - Register' } },
+                    { path: 'verify', name: 'verify', component: Verify, meta: { title: 'EmployZongo - Verify' } },
                     { path: 'login', name: 'login', component: Login, meta: { title: 'EmployZongo - Login' } },
                     { path: 'job-details', name: 'job-details', component: JobDetails, meta: { title: 'EmployZongo - Job Details' } },
                     { path: 'blog-details', name: 'blog-details', component: BlogDetails, meta: { title: 'EmployZongo - Blog Details' } },

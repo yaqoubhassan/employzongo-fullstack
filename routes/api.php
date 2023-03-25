@@ -2,6 +2,8 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Auth\RegisterController;
+use App\Http\Controllers\Auth\VerificationController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,4 +18,13 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
+});
+
+Route::prefix('auth')->group(function () {
+    Route::post('register', RegisterController::class);
+    Route::get('email/verify/{id}', [VerificationController::class, 'verify'])->name('verification.verify');
+
+    Route::group(['middleware' => 'api'], function () {
+        Route::get('email/resend', [VerificationController::class, 'resend'])->name('verification.resend');
+    });
 });
