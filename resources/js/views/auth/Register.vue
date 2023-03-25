@@ -84,6 +84,7 @@ export default {
     },
     methods: {
         async submitRegistration() {
+            this.$Progress.start();
             const formData = {
                 full_name: this.formData.full_name,
                 email: this.formData.email,
@@ -97,6 +98,7 @@ export default {
                     const token = response.data.token;
 
                     axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
+                    this.$Progress.finish();
                 })
                 .catch(error => { console.log(error) })
                 .finally(() => {

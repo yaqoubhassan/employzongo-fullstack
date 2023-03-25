@@ -56,15 +56,15 @@ export default {
         async resendVerification() {
             this.loading = true
 
-            const res = await axios.get('auth/email/resend')
+            await axios.get('auth/email/resend')
                 .then(response => {
                     this.alertContent = response.data.data.message;
-                    this.$swal(
-                        'Awesome!',
-                        response.data.data.message,
-                        'success'
-                    );
-
+                    this.$swal({
+                        title: 'Awesome!',
+                        text: response.data.data.message,
+                        icon: 'success',
+                        confirmButtonColor: '#3C65F5'
+                    });
                     this.loading = false
                 })
                 .catch(error => { console.log(error) })
