@@ -10,7 +10,7 @@
                             <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
                         </div>
                         <div class="toast-body">
-                            {{ toastContent }}
+                            {{ alertContent }}
                         </div>
                     </div>
                 </div>
@@ -48,19 +48,23 @@ import axios from 'axios'
 export default {
     data() {
         return {
-            toastContent: '',
+            alertContent: '',
             loading: false
         }
     },
     methods: {
         async resendVerification() {
             this.loading = true
+
             const res = await axios.get('auth/email/resend')
                 .then(response => {
-                    this.toastContent = response.data.data.message;
-                    const toastLiveExample = document.getElementById('liveToast')
-                    const toastBootstrap = new bootstrap.Toast(toastLiveExample)
-                    toastBootstrap.show()
+                    this.alertContent = response.data.data.message;
+                    this.$swal(
+                        'Awesome!',
+                        response.data.data.message,
+                        'success'
+                    );
+
                     this.loading = false
                 })
                 .catch(error => { console.log(error) })
@@ -84,7 +88,7 @@ export default {
 .toast-header {
     background-color: #3C65F5;
     color: #FFFFFF;
-    border: 1px solid #05264E;
+    /* border: 1px solid #05264E; */
 }
 
 h5 {
