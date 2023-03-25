@@ -7,6 +7,7 @@ import BlogsComponent from '../js/components/BlogsComponent.vue'
 import Newsletter from '../js/components/Newsletter.vue'
 import Breadcrumb from '../js/components/Breadcrumb.vue'
 import store from './store'
+import axios from 'axios';
 
 const app = createApp(App);
 
@@ -17,5 +18,8 @@ app
 
 app.use(router)
 app.use(store)
+
+axios.defaults.baseURL = import.meta.env.VITE_BASE_URL;
+
 
 app.mount("#app")
