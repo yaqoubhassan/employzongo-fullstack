@@ -11,6 +11,7 @@
 
         <main class="main">
             <router-view></router-view>
+            <vue-progress-bar></vue-progress-bar>
         </main>
         <!-- Footer -->
         <app-footer></app-footer>
