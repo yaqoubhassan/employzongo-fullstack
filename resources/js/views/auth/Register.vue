@@ -15,26 +15,34 @@
                     <form class="login-register text-start mt-20" action="#">
                         <div class="form-group">
                             <label class="form-label" for="full_name">Full Name *</label>
-                            <input class="form-control" type="text" v-model="formData.full_name" placeholder="Yakubu Job">
+                            <input class="form-control" id="full_name" type="text" name="full_name"
+                                v-model="formData.full_name" placeholder="Yakubu Job" @input="handleInput">
+                            <p id="name-field-error-message" class="error-message"></p>
                         </div>
                         <div class="form-group">
                             <label class="form-label" for="email">Email *</label>
-                            <input class="form-control" type="email" v-model="formData.email"
-                                placeholder="yakubujob@gmail.com">
+                            <input class="form-control" type="email" v-model="formData.email" id="email"
+                                placeholder="yakubujob@gmail.com" @input="handleInput">
+                            <p id="email-field-error-message" class="error-message"></p>
                         </div>
                         <div class="form-group">
                             <label class="form-label" for="phone_number">Phone Number </label>
-                            <input class="form-control" type="tel" v-model="formData.phone_number" placeholder="0244000000">
+                            <input class="form-control" id="phone_number" type="tel" v-model="formData.phone_number"
+                                placeholder="0244000000">
                         </div>
                         <div class="form-group">
-                            <label class="form-label" for="password">Password *</label>
+                            <label class="form-label" for="password">Password
+                                *</label>
                             <input class="form-control" type="password" v-model="formData.password"
-                                placeholder="************">
+                                placeholder="************" id="password" @input="handleInput">
+                            <p id="password-field-error-message" class="error-message"></p>
                         </div>
                         <div class="form-group">
-                            <label class="form-label" for="password_confirmation">Confirm Password *</label>
+                            <label class="form-label" for="password_confirmation">Confirm
+                                Password *</label>
                             <input class="form-control" type="password" v-model="formData.password_confirmation"
-                                placeholder="************">
+                                placeholder="************" id="password_confirmation" @input="handleInput">
+                            <p id="confirm-password-field-error-message" class="error-message"></p>
                         </div>
                         <div class="login_footer form-group d-flex justify-content-between">
                             <label class="cb-container">
@@ -68,6 +76,7 @@
 
 <script>
 import axios from 'axios'
+import { formValidation, validateOnInput } from '../../validations/registrationFormValidation'
 
 export default {
     data() {
@@ -83,8 +92,18 @@ export default {
         }
     },
     methods: {
+        handleInput(event) {
+            const passwordValue = document.getElementById('password').value;
+            validateOnInput(event, passwordValue);
+        },
         async submitRegistration() {
+            formValidation(this.formData)
+            if (formValidation(this.formData) > 0) {
+                return;
+            }
+
             this.$Progress.start();
+
             const formData = {
                 full_name: this.formData.full_name,
                 email: this.formData.email,
@@ -93,19 +112,30 @@ export default {
                 password_confirmation: this.formData.password_confirmation
             }
             this.loading = true;
+
             const res = await axios.post('auth/register', formData)
                 .then(response => {
                     const token = response.data.token;
 
                     axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
                     this.$Progress.finish();
+                    this.$router.push('verify');
                 })
                 .catch(error => { console.log(error) })
                 .finally(() => {
                     this.loading = false;
-                    this.$router.push('verify');
                 })
         }
     }
 }
 </script>
+
+<style scoped>
+.error-message {
+    color: red;
+}
+
+.error-border {
+    border: 1px solid red;
+}
+</style>
