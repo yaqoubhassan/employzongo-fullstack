@@ -32,25 +32,11 @@ export default {
         appApplyJobModal: ApplyJobModal,
         appFooter: Footer
     },
-
     mounted() {
-        // css
         import('../../assets/css/stylecd4e.css?version=4.1')
-
-        // js
-        // import('../../assets/js/vendor/modernizr-3.6.0.min.js')
-        // import('../../assets/js/vendor/jquery-3.6.0.min.js')
-        // import('../../assets/js/vendor/jquery-migrate-3.3.0.min.js')
-        // import('../../assets/js/vendor/bootstrap.bundle.min.js')
-        // import('../../assets/js/plugins/waypoints.js')
-        // import('../../assets/js/plugins/magnific-popup.js')
-        // import('../../assets/js/plugins/perfect-scrollbar.min.js')
-        // import('../../assets/js/plugins/select2.min.js')
-        // import('../../assets/js/plugins/isotope.js')
-        // import('../../assets/js/plugins/scrollup.js')
-        // import('../../assets/js/plugins/swiper-bundle.min.js')
-        // import('../../assets/js/main8c94.js?v=4.1')
+        // console.log('it just redirected to home from mounted')
     }
+
 }
 </script>
 

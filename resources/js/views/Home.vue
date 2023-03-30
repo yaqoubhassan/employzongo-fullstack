@@ -31,10 +31,6 @@ export default {
         appTopCandidates: TopCandidates,
         appTestimonials: Testimonials,
         appComingSoon: ComingSoon
-    },
-    // metaInfo: {
-    //     // title will be injected into parent titleTemplate
-    //     title: 'About Us'
-    // }
+    }
 }
 </script>
