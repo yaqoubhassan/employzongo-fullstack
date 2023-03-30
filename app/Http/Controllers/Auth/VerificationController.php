@@ -20,7 +20,7 @@ class VerificationController extends Controller
         $userId = $request->route('id');
         $user = User::findOrFail($userId);
 
-        $redirectUrl = 'http://127.0.0.1:8000/';
+        $redirectUrl = 'http://127.0.0.1:8000/verified';
 
         if (!hash_equals((string) $request->route('id'), (string) $user->getKey())) {
             return view('verification.failure', [
@@ -52,9 +52,9 @@ class VerificationController extends Controller
         }
     }
 
-    public function resend()
+    public function resend(Request $request)
     {
-        $user = User::find(auth('api')->user()->id);
+        $user = User::find($request->user()->id);
 
         if ($user->hasVerifiedEmail()) {
             return response()->json([
