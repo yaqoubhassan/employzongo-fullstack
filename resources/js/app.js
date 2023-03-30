@@ -15,9 +15,10 @@ import VueProgressBar from "@aacassandra/vue3-progressbar";
 
 const app = createApp(App);
 
+axios.defaults.baseURL = import.meta.env.VITE_BASE_URL;
 const options = {
-    color: "#3C65F5",
-    failedColor: "#874b4b",
+    color: "#48f8c3",
+    failedColor: "#ee4f4f",
     thickness: "5px",
     transition: {
         speed: "0.2s",
@@ -31,12 +32,13 @@ app
     .component('appNewsletter', Newsletter)
     .component('appBreadcrumb', Breadcrumb)
 
-app.use(router)
+app.use(VueProgressBar, options)
+    .use(router)
     .use(store)
     .use(VueSweetalert2)
-    .use(VueProgressBar, options)
-
-axios.defaults.baseURL = import.meta.env.VITE_BASE_URL;
-
 
 app.mount("#app")
+
+window.progressBar = app.config.globalProperties.$Progress;
+window.swal = app.config.globalProperties.$swal;
+
