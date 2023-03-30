@@ -50,9 +50,8 @@
                                     class="checkmark"></span>
                             </label><a class="text-muted" href="page-contact.html">Lean more</a>
                         </div>
-                        <div class="form-group" v-if="loading">
-                            <button class="btn btn-brand-1 hover-up w-100" type="submit" @click.prevent="submitRegistration"
-                                disabled>
+                        <div class="form-group" v-if="this.$store.state.loading">
+                            <button class="btn btn-brand-1 hover-up w-100" type="submit" disabled>
                                 <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
                                 Submit &amp; Register
                             </button>
@@ -75,7 +74,6 @@
 </template>
 
 <script>
-import axios from 'axios'
 import { formValidation, validateOnInput } from '../../validations/registrationFormValidation'
 
 export default {
@@ -88,7 +86,6 @@ export default {
                 password: '',
                 password_confirmation: ''
             },
-            loading: false
         }
     },
     methods: {
@@ -111,20 +108,8 @@ export default {
                 password: this.formData.password,
                 password_confirmation: this.formData.password_confirmation
             }
-            this.loading = true;
+            this.$store.dispatch('signup', formData)
 
-            const res = await axios.post('auth/register', formData)
-                .then(response => {
-                    const token = response.data.token;
-
-                    axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
-                    this.$Progress.finish();
-                    this.$router.push('verify');
-                })
-                .catch(error => { console.log(error) })
-                .finally(() => {
-                    this.loading = false;
-                })
         }
     }
 }
