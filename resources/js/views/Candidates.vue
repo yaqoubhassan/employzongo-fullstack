@@ -78,9 +78,10 @@
                                         </div>
                                     </div>
                                     <div class="box-view-type"><a class="view-type" href="jobs-list.html"><img
-                                                src="../../assets/imgs/template/icons/icon-list.svg" alt="jobBox"></a><a
-                                            class="view-type" href="jobs-grid.html"><img
-                                                src="../../assets/imgs/template/icons/icon-grid-hover.svg" alt="jobBox"></a>
+                                                src="../../assets/imgs/template/icons/icon-list.svg"
+                                                alt="EmployZongo"></a><a class="view-type" href="jobs-grid.html"><img
+                                                src="../../assets/imgs/template/icons/icon-grid-hover.svg"
+                                                alt="EmployZongo"></a>
                                     </div>
                                 </div>
                             </div>
@@ -91,7 +92,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user1.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user1.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a @click="navigateToCandidateDetails"
@@ -100,15 +102,15 @@
                                         </a><span class="font-xs color-text-mutted">Backend Developer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -142,7 +144,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user2.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user2.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -150,15 +153,15 @@
                                         </a><span class="font-xs color-text-mutted">Python developer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -192,7 +195,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user3.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user3.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -200,15 +204,15 @@
                                         </a><span class="font-xs color-text-mutted">Content Manager</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -242,7 +246,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user4.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user4.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -250,15 +255,15 @@
                                         </a><span class="font-xs color-text-mutted">Network</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -292,7 +297,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user5.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user5.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -300,15 +306,15 @@
                                         </a><span class="font-xs color-text-mutted">Photo Editing</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -342,7 +348,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user6.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user6.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -350,15 +357,15 @@
                                         </a><span class="font-xs color-text-mutted">Online Marketing</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -392,7 +399,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user7.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user7.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -400,15 +408,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -442,7 +450,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user8.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user8.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -450,15 +459,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -492,7 +501,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user9.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user9.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -500,15 +510,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -542,7 +552,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user10.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user10.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -550,15 +561,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -592,7 +603,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user11.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user11.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -600,15 +612,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -642,7 +654,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user12.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user12.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -650,15 +663,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -692,7 +705,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user13.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user13.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -700,15 +714,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -742,7 +756,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user14.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user14.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -750,15 +765,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -792,7 +807,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user15.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user15.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -800,15 +816,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -842,7 +858,8 @@
                             <div class="card-grid-2 hover-up">
                                 <div class="card-grid-2-image-left">
                                     <div class="card-grid-2-image-rd online"><a href="candidate-details.html">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/candidates/user1.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/candidates/user1.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-profile pt-10"><a href="candidate-details.html">
@@ -850,15 +867,15 @@
                                         </a><span class="font-xs color-text-mutted">UI/UX Designer</span>
                                         <div class="rate-reviews-small pt-5"><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span><img
+                                                    alt="EmployZongo"></span><span><img
                                                     src="../../assets/imgs/template/icons/star.svg"
-                                                    alt="jobBox"></span><span
+                                                    alt="EmployZongo"></span><span
                                                 class="ml-10 color-text-mutted font-xs">(65)</span></div>
                                     </div>
                                 </div>
@@ -904,12 +921,11 @@
                     </ul>
                 </div>
             </div>
-        </section>
-        <app-blogs-component></app-blogs-component>
-        <div style="height: 100px;"></div>
-        <app-newsletter></app-newsletter>
-    </div>
-</template>
+    </section>
+    <app-blogs-component></app-blogs-component>
+    <div style="height: 100px;"></div>
+    <app-newsletter></app-newsletter>
+</div></template>
 
 <script>
 export default {

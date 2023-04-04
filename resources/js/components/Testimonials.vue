@@ -14,18 +14,18 @@
                             <div class="swiper-slide hover-up">
                                 <div class="card-review-1">
                                     <div class="image-review"> <img src="../../assets/imgs/page/homepage4/user.png"
-                                            alt="jobBox">
+                                            alt="EmployZongo">
                                     </div>
                                     <div class="review-info">
                                         <div class="review-name">
                                             <h5>Ellis Kim</h5><span class="font-xs">Digital Artist</span>
                                         </div>
                                         <div class="review-rating"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox">
-                                            <img src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox">
+                                                alt="EmployZongo"> <img src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo">
+                                            <img src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo">
                                         </div>
                                         <div class="review-comment">Sit amet, consectetur adipiscing elit, sed do eiusmod
                                             tempor incidid unt. Labore et dolore nostrud temp exercitation.</div>
@@ -35,18 +35,18 @@
                             <div class="swiper-slide hover-up">
                                 <div class="card-review-1">
                                     <div class="image-review"> <img src="../../assets/imgs/page/homepage4/user2.png"
-                                            alt="jobBox">
+                                            alt="EmployZongo">
                                     </div>
                                     <div class="review-info">
                                         <div class="review-name">
                                             <h5>John Smith</h5><span class="font-xs">Product designer</span>
                                         </div>
                                         <div class="review-rating"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox">
-                                            <img src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox">
+                                                alt="EmployZongo"> <img src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo">
+                                            <img src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo">
                                         </div>
                                         <div class="review-comment">Sit amet, consectetur adipiscing elit, sed do eiusmod
                                             tempor incidid unt. Labore et dolore nostrud temp exercitation.</div>
@@ -56,18 +56,18 @@
                             <div class="swiper-slide hover-up">
                                 <div class="card-review-1">
                                     <div class="image-review"> <img src="../../assets/imgs/page/homepage4/user3.png"
-                                            alt="jobBox">
+                                            alt="EmployZongo">
                                     </div>
                                     <div class="review-info">
                                         <div class="review-name">
                                             <h5>Sayen Ahmod</h5><span class="font-xs">Developer</span>
                                         </div>
                                         <div class="review-rating"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox">
-                                            <img src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox">
+                                                alt="EmployZongo"> <img src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo">
+                                            <img src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo">
                                         </div>
                                         <div class="review-comment">Sit amet, consectetur adipiscing elit, sed do eiusmod
                                             tempor incidid unt. Labore et dolore nostrud temp exercitation.</div>
@@ -77,18 +77,18 @@
                             <div class="swiper-slide hover-up">
                                 <div class="card-review-1">
                                     <div class="image-review"> <img src="../../assets/imgs/page/homepage4/user4.png"
-                                            alt="jobBox">
+                                            alt="EmployZongo">
                                     </div>
                                     <div class="review-info">
                                         <div class="review-name">
                                             <h5>Tayla Swef</h5><span class="font-xs">Graphic designer</span>
                                         </div>
                                         <div class="review-rating"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox">
-                                            <img src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox">
+                                                alt="EmployZongo"> <img src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo">
+                                            <img src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo">
                                         </div>
                                         <div class="review-comment">Sit amet, consectetur adipiscing elit, sed do eiusmod
                                             tempor incidid unt. Labore et dolore nostrud temp exercitation.</div>
@@ -98,18 +98,18 @@
                             <div class="swiper-slide hover-up">
                                 <div class="card-review-1">
                                     <div class="image-review"> <img src="../../assets/imgs/page/homepage4/user.png"
-                                            alt="jobBox">
+                                            alt="EmployZongo">
                                     </div>
                                     <div class="review-info">
                                         <div class="review-name">
                                             <h5>Ellis Kim</h5><span class="font-xs">Digital Artist</span>
                                         </div>
                                         <div class="review-rating"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"> <img src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox">
-                                            <img src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"> <img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox">
+                                                alt="EmployZongo"> <img src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo">
+                                            <img src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo"> <img
+                                                src="../../assets/imgs/template/icons/star.svg" alt="EmployZongo">
                                         </div>
                                         <div class="review-comment">Sit amet, consectetur adipiscing elit, sed do eiusmod
                                             tempor incidid unt. Labore et dolore nostrud temp exercitation.</div>

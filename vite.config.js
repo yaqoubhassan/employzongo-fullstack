@@ -39,14 +39,15 @@ export default defineConfig({
                 'resources/assets/js/plugins/select2.min.js',
                 // 'resources/assets/js/plugins/isotope.js',
                 // 'resources/assets/js/plugins/scrollup.js',
-                // 'resources/assets/js/plugins/swiper-bundle.min.js',
+                'resources/assets/js/plugins/swiper-bundle.min.js',
                 'resources/assets/admin/js/plugins/jquery.circliful.js',
                 // 'resources/assets/js/plugins/charts/index.js',
                 // 'resources/assets/js/plugins/charts/xy.js',
                 // 'resources/assets/js/plugins/charts/Animated.js',
                 // 'resources/assets/js/plugins/armcharts5-script.js',
                 // 'resources/js/plugins/counterup.js',
-                'resources/assets/js/main8c94.js?v=4.1'
+                'resources/assets/js/main8c94.js?v=4.1',
+                'resources/assets/admin/js/main8c94.js?v=4.1'
             ],
             refresh: true,
         }),

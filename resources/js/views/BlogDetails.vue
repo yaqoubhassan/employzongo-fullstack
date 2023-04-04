@@ -11,7 +11,7 @@
                             <h2 class="mb-30 mt-20 text-center">11 Tips to Help You Get New Clients Through Cold Calling
                             </h2>
                             <div class="post-meta text-muted d-flex align-items-center mx-auto justify-content-center">
-                                <div class="author d-flex align-items-center mr-30"><img alt="jobBox"
+                                <div class="author d-flex align-items-center mr-30"><img alt="EmployZongo"
                                         src="../../assets/imgs/page/homepage1/user3.png"><span>Sarah Harding</span></div>
                                 <div class="date"><span class="font-xs color-text-paragraph-2 mr-20 d-inline-block"><img
                                             class="img-middle mr-5" src="../../assets/imgs/page/blog/calendar.svg"> 06 Sep
@@ -104,12 +104,12 @@
                                         <div class="col-md-5 text-lg-end social-share">
                                             <h6 class="color-text-paragraph-2 d-inline-block d-baseline mr-20 mt-10">Share
                                             </h6>
-                                            <a class="mr-20 d-inline-block d-middle hover-up" href="#"><img alt="jobBox"
-                                                    src="../../assets/imgs/page/blog/fb.svg"></a><a
-                                                class="mr-20 d-inline-block d-middle hover-up" href="#"><img alt="jobBox"
-                                                    src="../../assets/imgs/page/blog/tw.svg"></a><a
-                                                class="mr-0 d-inline-block d-middle hover-up" href="#"><img alt="jobBox"
-                                                    src="../../assets/imgs/page/blog/pi.svg"></a>
+                                            <a class="mr-20 d-inline-block d-middle hover-up" href="#"><img
+                                                    alt="EmployZongo" src="../../assets/imgs/page/blog/fb.svg"></a><a
+                                                class="mr-20 d-inline-block d-middle hover-up" href="#"><img
+                                                    alt="EmployZongo" src="../../assets/imgs/page/blog/tw.svg"></a><a
+                                                class="mr-0 d-inline-block d-middle hover-up" href="#"><img
+                                                    alt="EmployZongo" src="../../assets/imgs/page/blog/pi.svg"></a>
                                         </div>
                                     </div>
                                 </div>

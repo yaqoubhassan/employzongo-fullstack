@@ -3,7 +3,8 @@
         <div class="row">
             <div class="col-xxl-4 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                 <div class="card-style-1 hover-up">
-                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/computer.svg" alt="jobBox">
+                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/computer.svg"
+                            alt="EmployZongo">
                     </div>
                     <div class="card-info">
                         <div class="card-title">
@@ -15,7 +16,8 @@
             </div>
             <div class="col-xxl-4 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                 <div class="card-style-1 hover-up">
-                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/bank.svg" alt="jobBox">
+                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/bank.svg"
+                            alt="EmployZongo">
                     </div>
                     <div class="card-info">
                         <div class="card-title">
@@ -27,7 +29,8 @@
             </div>
             <div class="col-xxl-4 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                 <div class="card-style-1 hover-up">
-                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/lamp.svg" alt="jobBox">
+                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/lamp.svg"
+                            alt="EmployZongo">
                     </div>
                     <div class="card-info">
                         <div class="card-title">
@@ -40,7 +43,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                 <div class="card-style-1 hover-up">
                     <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/headphone.svg"
-                            alt="jobBox">
+                            alt="EmployZongo">
                     </div>
                     <div class="card-info">
                         <div class="card-title">
@@ -52,7 +55,8 @@
             </div>
             <div class="col-xxl-4 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                 <div class="card-style-1 hover-up">
-                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/look.svg" alt="jobBox">
+                    <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/look.svg"
+                            alt="EmployZongo">
                     </div>
                     <div class="card-info">
                         <div class="card-title">
@@ -65,7 +69,7 @@
             <div class="col-xxl-4 col-xl-4 col-lg-6 col-md-6 col-sm-6">
                 <div class="card-style-1 hover-up">
                     <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/open-file.svg"
-                            alt="jobBox">
+                            alt="EmployZongo">
                     </div>
                     <div class="card-info">
                         <div class="card-title">
@@ -77,6 +81,5 @@
             </div>
 
 
-        </div>
     </div>
-</template>
+</div></template>

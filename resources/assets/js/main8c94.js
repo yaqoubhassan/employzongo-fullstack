@@ -2,7 +2,6 @@
     ("use strict");
     // Page loading
     $(window).on("load", function () {
-        alert("This can run");
         $("#preloader-active").fadeOut("slow");
     });
     /*-----------------

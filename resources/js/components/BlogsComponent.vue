@@ -15,7 +15,8 @@
                             <div class="swiper-slide">
                                 <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                     <div class="text-center card-grid-3-image"><a href="#">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/homepage1/img-news1.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/homepage1/img-news1.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-block-info">
@@ -29,7 +30,8 @@
                                             <div class="row">
                                                 <div class="col-lg-6 col-6">
                                                     <div class="d-flex"><img class="img-rounded"
-                                                            src="../../assets/imgs/page/homepage1/user1.png" alt="jobBox">
+                                                            src="../../assets/imgs/page/homepage1/user1.png"
+                                                            alt="EmployZongo">
                                                         <div class="info-right-img"><span
                                                                 class="font-sm font-bold color-brand-1 op-70">Sarah
                                                                 Harding</span><br><span
@@ -48,7 +50,8 @@
                             <div class="swiper-slide">
                                 <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                     <div class="text-center card-grid-3-image"><a href="#">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/homepage1/img-news2.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/homepage1/img-news2.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-block-info">
@@ -63,7 +66,8 @@
                                             <div class="row">
                                                 <div class="col-lg-6 col-6">
                                                     <div class="d-flex"><img class="img-rounded"
-                                                            src="../../assets/imgs/page/homepage1/user2.png" alt="jobBox">
+                                                            src="../../assets/imgs/page/homepage1/user2.png"
+                                                            alt="EmployZongo">
                                                         <div class="info-right-img"><span
                                                                 class="font-sm font-bold color-brand-1 op-70">Steven
                                                                 Jobs</span><br><span
@@ -82,7 +86,8 @@
                             <div class="swiper-slide">
                                 <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                     <div class="text-center card-grid-3-image"><a href="#">
-                                            <figure><img alt="jobBox" src="../../assets/imgs/page/homepage1/img-news3.png">
+                                            <figure><img alt="EmployZongo"
+                                                    src="../../assets/imgs/page/homepage1/img-news3.png">
                                             </figure>
                                         </a></div>
                                     <div class="card-block-info">
@@ -96,7 +101,8 @@
                                             <div class="row">
                                                 <div class="col-lg-6 col-6">
                                                     <div class="d-flex"><img class="img-rounded"
-                                                            src="../../assets/imgs/page/homepage1/user3.png" alt="jobBox">
+                                                            src="../../assets/imgs/page/homepage1/user3.png"
+                                                            alt="EmployZongo">
                                                         <div class="info-right-img"><span
                                                                 class="font-sm font-bold color-brand-1 op-70">Wiliam
                                                                 Kend</span><br><span
@@ -118,8 +124,7 @@
                     <div class="swiper-button-prev"></div>
                 </div>
                 <div class="text-center"><a class="btn btn-brand-1 btn-icon-load mt--30 hover-up" href="blog-grid.html">Load
-                        More Posts</a></div>
-            </div>
+                    More Posts</a></div>
         </div>
-    </section>
-</template>
+    </div>
+</section></template>

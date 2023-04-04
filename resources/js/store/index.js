@@ -37,10 +37,10 @@ export default createStore({
 
             await axios.post('register', authData)
                 .then(response => {
-                    commit('authUser', {
-                        token: response.data.token,
-                        userId: response.data.user.id
-                    })
+                    // commit('authUser', {
+                    //     token: response.data.token,
+                    //     userId: response.data.user.id
+                    // })
 
                     //end progressbar
                     window.progressBar.finish();

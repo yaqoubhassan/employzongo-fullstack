@@ -3,24 +3,25 @@
         <section class="section-box-2">
             <div class="container">
                 <div class="banner-hero banner-image-single"><img src="../../assets/imgs/page/candidates/img.png"
-                        alt="jobbox">
+                        alt="EmployZongo">
                 </div>
                 <div class="box-company-profile">
                     <div class="image-compay"><img src="../../assets/imgs/page/candidates/candidate-profile.png"
-                            alt="jobbox">
+                            alt="EmployZongo">
                     </div>
                     <div class="row mt-10">
                         <div class="col-lg-8 col-md-12">
                             <h5 class="f-18">Steven Jobs <span class="card-location font-regular ml-20">New York, US</span>
                             </h5>
                             <p class="mt-0 font-md color-text-paragraph-2 mb-15">UI/UX Designer. Front end Developer</p>
-                            <div class="mt-10 mb-15"><img src="../../assets/imgs/template/icons/star.svg" alt="jobbox"><img
-                                    src="../../assets/imgs/template/icons/star.svg" alt="jobbox"><img
-                                    src="../../assets/imgs/template/icons/star.svg" alt="jobbox"><img
-                                    src="../../assets/imgs/template/icons/star.svg" alt="jobbox"><img
-                                    src="../../assets/imgs/template/icons/star.svg" alt="jobbox"><span
-                                    class="font-xs color-text-mutted ml-10">(66)</span><img class="ml-30"
-                                    src="../../assets/imgs/page/candidates/verified.png" alt="jobbox"></div>
+                            <div class="mt-10 mb-15"><img src="../../assets/imgs/template/icons/star.svg"
+                                    alt="EmployZongo"><img src="../../assets/imgs/template/icons/star.svg"
+                                    alt="EmployZongo"><img src="../../assets/imgs/template/icons/star.svg"
+                                    alt="EmployZongo"><img src="../../assets/imgs/template/icons/star.svg"
+                                    alt="EmployZongo"><img src="../../assets/imgs/template/icons/star.svg"
+                                    alt="EmployZongo"><span class="font-xs color-text-mutted ml-10">(66)</span><img
+                                    class="ml-30" src="../../assets/imgs/page/candidates/verified.png" alt="EmployZongo">
+                            </div>
                         </div>
                         <div class="col-lg-4 col-md-12 text-lg-end"><a class="btn btn-download-icon btn-apply btn-apply-big"
                                 href="page-contact.html">Download CV</a></div>
@@ -182,7 +183,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-6.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Quora JSC</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>
@@ -218,7 +219,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-7.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Nintendo</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>
@@ -254,7 +255,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-8.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Periscope</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>

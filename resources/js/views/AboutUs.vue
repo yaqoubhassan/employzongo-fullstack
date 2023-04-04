@@ -54,21 +54,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team1.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team1.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Arlene McCoy</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -81,21 +82,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team2.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team2.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Floyd Miles</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">UI/UX Designer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>28</span><span>)</span></span>
                                     </div><span class="card-location">Chicago, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -108,21 +110,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team3.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team3.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Devon Lane</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -135,21 +138,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team4.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team4.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Jerome Bell</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -162,21 +166,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team5.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team5.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Theresa</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -189,21 +194,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team6.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team6.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Cameron</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -216,21 +222,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team7.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team7.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Jacob Jones</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -243,21 +250,22 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                             <div class="card-grid-4 text-center hover-up">
                                 <div class="image-top-feature">
-                                    <figure><img alt="jobBox" src="../../assets/imgs/page/about/team8.png"></figure>
+                                    <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/team8.png"></figure>
                                 </div>
                                 <div class="card-grid-4-info">
                                     <h5 class="mt-10">Court Henry</h5>
                                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
                                     <div class="rate-reviews-small pt-5"><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
+                                                alt="EmployZongo"></span><span><img
                                                 src="../../assets/imgs/template/icons/star.svg"
-                                                alt="jobBox"></span><span><img
-                                                src="../../assets/imgs/template/icons/star.svg" alt="jobBox"></span><span
+                                                alt="EmployZongo"></span><span><img
+                                                src="../../assets/imgs/template/icons/star.svg"
+                                                alt="EmployZongo"></span><span
                                             class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span>
                                     </div><span class="card-location">New York, US</span>
                                     <div class="text-center mt-30"><a class="share-facebook social-share-link"
@@ -292,7 +300,7 @@
                                         </div>
                                         <div class="card-image">
                                             <div class="image">
-                                                <figure><img alt="jobBox" src="../../assets/imgs/page/about/user1.png">
+                                                <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/user1.png">
                                                 </figure>
                                             </div>
                                             <div class="card-profile">
@@ -311,7 +319,7 @@
                                         </div>
                                         <div class="card-image">
                                             <div class="image">
-                                                <figure><img alt="jobBox" src="../../assets/imgs/page/about/user2.png">
+                                                <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/user2.png">
                                                 </figure>
                                             </div>
                                             <div class="card-profile">
@@ -330,7 +338,7 @@
                                         </div>
                                         <div class="card-image">
                                             <div class="image">
-                                                <figure><img alt="jobBox" src="../../assets/imgs/page/about/user3.png">
+                                                <figure><img alt="EmployZongo" src="../../assets/imgs/page/about/user3.png">
                                                 </figure>
                                             </div>
                                             <div class="card-profile">

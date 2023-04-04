@@ -18,9 +18,10 @@ return new class extends Migration
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->string('phone_number')->unique()->nullable();
+            $table->enum('user_type', ['candidate', 'admin'])->default('candidate');
             $table->text('description')->nullable();
             $table->string('location')->nullable();
-            $table->string('avatar')->nullable();
+            $table->string('avatar')->nullable()->default('avatars/profile.png');
             $table->rememberToken();
             $table->timestamps();
         });

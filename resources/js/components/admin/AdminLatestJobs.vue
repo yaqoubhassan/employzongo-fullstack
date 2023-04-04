@@ -15,7 +15,7 @@
                     <div class="card-style-2 hover-up">
                         <div class="card-head">
                             <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/img1.png"
-                                    alt="jobBox"></div>
+                                    alt="EmployZongo"></div>
                             <div class="card-title">
                                 <h6>Senior Full Stack Engineer, Creator Success</h6><span class="job-type">Full
                                     time</span><span class="time-post">3mins
@@ -30,7 +30,7 @@
                     <div class="card-style-2 hover-up">
                         <div class="card-head">
                             <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/img2.png"
-                                    alt="jobBox"></div>
+                                    alt="EmployZongo"></div>
                             <div class="card-title">
                                 <h6>Senior Full Stack Engineer, Creator Success</h6><span class="job-type">Full
                                     time</span><span class="time-post">3mins
@@ -46,7 +46,7 @@
                     <div class="card-style-2 hover-up">
                         <div class="card-head">
                             <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/img3.png"
-                                    alt="jobBox"></div>
+                                    alt="EmployZongo"></div>
                             <div class="card-title">
                                 <h6>Lead Product/UX/UI Designer Role</h6><span class="job-type">Full
                                     time</span><span class="time-post">3mins ago</span><span class="location">Paris,
@@ -62,7 +62,7 @@
                     <div class="card-style-2 hover-up">
                         <div class="card-head">
                             <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/img4.png"
-                                    alt="jobBox"></div>
+                                    alt="EmployZongo"></div>
                             <div class="card-title">
                                 <h6>Marketing Graphic Designer</h6><span class="job-type">Full
                                     time</span><span class="time-post">3mins ago</span><span class="location">Tokyto,
@@ -78,7 +78,7 @@
                     <div class="card-style-2 hover-up">
                         <div class="card-head">
                             <div class="card-image"> <img src="../../../assets/admin/imgs/page/dashboard/img5.png"
-                                    alt="jobBox"></div>
+                                    alt="EmployZongo"></div>
                             <div class="card-title">
                                 <h6>Director, Product Design - Creator</h6><span class="job-type">Full
                                     time</span><span class="time-post">3mins ago</span><span class="location">Ha Noi,

@@ -18,13 +18,14 @@
                             </div>
                             <div class="border-bottom pt-10 pb-10"></div>
                             <div class="banner-hero banner-image-single mt-10 mb-20"><img
-                                    src="../../assets/imgs/page/job-single-2/img.png" alt="jobBox"></div>
+                                    src="../../assets/imgs/page/job-single-2/img.png" alt="EmployZongo"></div>
                             <div class="job-overview">
                                 <h5 class="border-bottom pb-15 mb-30">Overview</h5>
                                 <div class="row">
                                     <div class="col-md-6 d-flex">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/industry.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/industry.svg" alt="EmployZongo">
+                                        </div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description industry-icon mb-10">Industry</span><strong
                                                 class="small-heading"> Mechanical / Auto / Automotive, Civil /
@@ -32,7 +33,8 @@
                                     </div>
                                     <div class="col-md-6 d-flex mt-sm-15">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/job-level.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/job-level.svg" alt="EmployZongo">
+                                        </div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description joblevel-icon mb-10">Job level</span><strong
                                                 class="small-heading">Experienced (Non - Manager)</strong></div>
@@ -41,14 +43,15 @@
                                 <div class="row mt-25">
                                     <div class="col-md-6 d-flex mt-sm-15">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/salary.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/salary.svg" alt="EmployZongo"></div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description salary-icon mb-10">Salary</span><strong
                                                 class="small-heading">$800 - $1000</strong></div>
                                     </div>
                                     <div class="col-md-6 d-flex">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/experience.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/experience.svg" alt="EmployZongo">
+                                        </div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description experience-icon mb-10">Experience</span><strong
                                                 class="small-heading">1 - 2 years</strong></div>
@@ -57,14 +60,16 @@
                                 <div class="row mt-25">
                                     <div class="col-md-6 d-flex mt-sm-15">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/job-type.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/job-type.svg" alt="EmployZongo">
+                                        </div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description jobtype-icon mb-10">Job type</span><strong
                                                 class="small-heading">Permanent</strong></div>
                                     </div>
                                     <div class="col-md-6 d-flex mt-sm-15">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/deadline.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/deadline.svg" alt="EmployZongo">
+                                        </div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description mb-10">Deadline</span><strong
                                                 class="small-heading">10/08/2022</strong></div>
@@ -73,14 +78,15 @@
                                 <div class="row mt-25">
                                     <div class="col-md-6 d-flex mt-sm-15">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/updated.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/updated.svg" alt="EmployZongo"></div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description jobtype-icon mb-10">Updated</span><strong
                                                 class="small-heading">10/07/2022</strong></div>
                                     </div>
                                     <div class="col-md-6 d-flex mt-sm-15">
                                         <div class="sidebar-icon-item"><img
-                                                src="../../assets/imgs/page/job-single/location.svg" alt="jobBox"></div>
+                                                src="../../assets/imgs/page/job-single/location.svg" alt="EmployZongo">
+                                        </div>
                                         <div class="sidebar-text-info ml-10"><span
                                                 class="text-description mb-10">Location</span><strong
                                                 class="small-heading">Dallas, Texas Remote Friendly</strong></div>
@@ -150,13 +156,13 @@
                                             class="btn btn-border" href="#">Save job</a></div>
                                     <div class="col-md-7 text-lg-end social-share">
                                         <h6 class="color-text-paragraph-2 d-inline-block d-baseline mr-10">Share this</h6><a
-                                            class="mr-5 d-inline-block d-middle" href="#"><img alt="jobBox"
+                                            class="mr-5 d-inline-block d-middle" href="#"><img alt="EmployZongo"
                                                 src="../../assets/imgs/template/icons/share-fb.svg"></a><a
-                                            class="mr-5 d-inline-block d-middle" href="#"><img alt="jobBox"
+                                            class="mr-5 d-inline-block d-middle" href="#"><img alt="EmployZongo"
                                                 src="../../assets/imgs/template/icons/share-tw.svg"></a><a
-                                            class="mr-5 d-inline-block d-middle" href="#"><img alt="jobBox"
+                                            class="mr-5 d-inline-block d-middle" href="#"><img alt="EmployZongo"
                                                 src="../../assets/imgs/template/icons/share-red.svg"></a><a
-                                            class="d-inline-block d-middle" href="#"><img alt="jobBox"
+                                            class="d-inline-block d-middle" href="#"><img alt="EmployZongo"
                                                 src="../../assets/imgs/template/icons/share-whatsapp.svg"></a>
                                     </div>
                                 </div>
@@ -172,7 +178,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-1.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-1.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a href="job-details.html">UI /
                                                         UX
@@ -194,7 +201,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-2.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-2.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a href="job-details.html">Java
                                                         Software Engineer</a></h5>
@@ -215,7 +223,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-3.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-3.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a
                                                         href="job-details.html">Frontend
@@ -237,7 +246,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-4.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-4.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a href="job-details.html">Cloud
                                                         Engineer</a></h5>
@@ -258,7 +268,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-5.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-5.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a
                                                         href="job-details.html">DevOps
@@ -280,7 +291,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-6.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-6.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a href="job-details.html">Figma
                                                         design UI/UX</a></h5>
@@ -301,7 +313,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-7.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-7.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a
                                                         href="job-details.html">Product
@@ -323,7 +336,8 @@
                                     <li>
                                         <div class="card-list-4 wow animate__animated animate__fadeIn hover-up">
                                             <div class="image"><a href="job-details.html"><img
-                                                        src="../../assets/imgs/brands/brand-8.png" alt="jobBox"></a></div>
+                                                        src="../../assets/imgs/brands/brand-8.png" alt="EmployZongo"></a>
+                                            </div>
                                             <div class="info-text">
                                                 <h5 class="font-md font-bold color-brand-1"><a href="job-details.html">UI /
                                                         UX
@@ -380,7 +394,7 @@
                                     <div class="card-grid-2 hover-up wow animate__animated animate__fadeIn">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
                                             <div class="image-box"><img src="../../assets/imgs/brands/brand-6.png"
-                                                    alt="jobBox">
+                                                    alt="EmployZongo">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="company-details.html">Quora
                                                     JSC</a><span class="location-small">New York, US</span></div>
@@ -411,7 +425,7 @@
                                     <div class="card-grid-2 hover-up wow animate__animated animate__fadeIn">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
                                             <div class="image-box"><img src="../../assets/imgs/brands/brand-4.png"
-                                                    alt="jobBox">
+                                                    alt="EmployZongo">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="company-details.html">Dailymotion</a><span
@@ -444,7 +458,7 @@
                                     <div class="card-grid-2 hover-up wow animate__animated animate__fadeIn">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
                                             <div class="image-box"><img src="../../assets/imgs/brands/brand-8.png"
-                                                    alt="jobBox">
+                                                    alt="EmployZongo">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="company-details.html">Periscope</a><span
@@ -478,7 +492,7 @@
                                     <div class="card-grid-2 hover-up wow animate__animated animate__fadeIn">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
                                             <div class="image-box"><img src="../../assets/imgs/brands/brand-4.png"
-                                                    alt="jobBox">
+                                                    alt="EmployZongo">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="company-details.html">Dailymotion</a><span
@@ -507,16 +521,15 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
                         </div>
-                        <div class="swiper-button-next swiper-button-next-4"></div>
-                        <div class="swiper-button-prev swiper-button-prev-4"></div>
                     </div>
-                    <div class="text-center"><a class="btn btn-grey" href="#">Load more posts</a></div>
+                    <div class="swiper-button-next swiper-button-next-4"></div>
+                    <div class="swiper-button-prev swiper-button-prev-4"></div>
                 </div>
+                <div class="text-center"><a class="btn btn-grey" href="#">Load more posts</a></div>
             </div>
-        </section>
-        <div style="height: 100px"></div>
-        <app-newsletter></app-newsletter>
-    </div>
-</template>
+        </div>
+    </section>
+    <div style="height: 100px"></div>
+    <app-newsletter></app-newsletter>
+</div></template>

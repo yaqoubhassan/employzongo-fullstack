@@ -74,7 +74,7 @@
                             <li><a href="page-signin.html">Sign Out</a></li>
                         </ul>
                     </div>
-                    <div class="site-copyright">Copyright 2022 &copy; JobBox. <br>Designed by AliThemes.</div>
+                    <div class="site-copyright">Copyright 2022 &copy; EmployZongo. <br>Designed by AliThemes.</div>
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
                             <li><a href="page-signin.html">Sign Out</a></li>
                         </ul>
                     </div>
-                    <div class="site-copyright">Copyright 2022 &copy; JobBox. <br>Designed by AliThemes.</div>
+                    <div class="site-copyright">Copyright 2022 &copy; EmployZongo. <br>Designed by AliThemes.</div>
                 </div>
             </div>
         </div>

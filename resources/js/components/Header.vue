@@ -3,7 +3,7 @@
         <div class="container">
             <div class="main-header">
                 <div class="header-left">
-                    <div class="header-logo"><a class="d-flex" href="index-2.html"><img alt="jobBox"
+                    <div class="header-logo"><a class="d-flex" href="index-2.html"><img alt="EmployZongo"
                                 src="../../assets/imgs/logo3.png"></a></div>
                 </div>
                 <div class="header-nav">
@@ -22,7 +22,7 @@
                 </div>
                 <div class="header-right" v-if="auth">
                     <div class="block-signin">
-                        <div class="member-login"><img alt="" src="../../assets/admin/imgs/page/dashboard/profile.png">
+                        <div class="member-login"><img alt="" src="../../assets/admin/imgs/page/dashboard/profile.jpg">
                             <div class="info-member"> <strong class="color-brand-1">{{ user }}</strong>
                                 <div class="dropdown"><a class="font-xs color-text-paragraph-2 icon-down"
                                         id="dropdownProfile" type="button" data-bs-toggle="dropdown" aria-expanded="false"
@@ -31,8 +31,8 @@
                                             : null }}</a>
                                     <ul class="dropdown-menu dropdown-menu-light dropdown-menu-end"
                                         aria-labelledby="dropdownProfile">
-                                        <li><a class="dropdown-item" href="profile.html">Profiles</a></li>
-                                        <li><a class="dropdown-item" href="my-resume.html">CV Manager</a></li>
+                                        <li><a class="dropdown-item" href="profile.html">Profile</a></li>
+                                        <li><a class="dropdown-item" href="my-resume.html">Acoount Settings</a></li>
                                         <li><a class="dropdown-item" @click="logout">Logout</a></li>
                                     </ul>
                                 </div>

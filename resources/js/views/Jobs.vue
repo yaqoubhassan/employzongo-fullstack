@@ -55,9 +55,10 @@
                                             </div>
                                             <div class="box-view-type"><a class="view-type" href="jobs-list.html"><img
                                                         src="../../assets/imgs/template/icons/icon-list.svg"
-                                                        alt="jobBox"></a><a class="view-type" href="jobs-grid.html"><img
+                                                        alt="EmployZongo"></a><a class="view-type"
+                                                    href="jobs-grid.html"><img
                                                         src="../../assets/imgs/template/icons/icon-grid-hover.svg"
-                                                        alt="jobBox"></a></div>
+                                                        alt="EmployZongo"></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +70,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-1.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">LinkedIn</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>
@@ -108,7 +109,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-2.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Adobe
                                                             Ilustrator</a><span class="location-small">New York, US</span>
                                                     </div>
@@ -147,7 +148,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-3.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Bing
                                                             Search</a><span class="location-small">New York, US</span></div>
                                                 </div>
@@ -185,7 +186,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-4.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job"
                                                             href="#">Dailymotion</a><span class="location-small">New York,
                                                             US</span></div>
@@ -224,7 +225,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-5.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Linkedin</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>
@@ -262,7 +263,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-6.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Quora JSC</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>
@@ -300,7 +301,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-7.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Nintendo</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>
@@ -338,7 +339,7 @@
                                             <div class="col-lg-6 col-md-6 col-sm-12">
                                                 <div class="card-grid-2-image-left">
                                                     <div class="image-box"><img src="../../assets/imgs/brands/brand-8.png"
-                                                            alt="jobBox"></div>
+                                                            alt="EmployZongo"></div>
                                                     <div class="right-info"><a class="name-job" href="#">Periscope</a><span
                                                             class="location-small">New York, US</span></div>
                                                 </div>

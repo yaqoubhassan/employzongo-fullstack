@@ -9,26 +9,26 @@
                     <ul class="nav nav-tabs" role="tablist">
                         <li><a class="active" id="nav-tab-job-1" href="#tab-job-1" data-bs-toggle="tab" role="tab"
                                 aria-controls="tab-job-1" aria-selected="true"><img
-                                    src="../../assets/imgs/page/homepage1/management.svg" alt="jobBox"> Management</a>
+                                    src="../../assets/imgs/page/homepage1/management.svg" alt="EmployZongo"> Management</a>
                         </li>
                         <li><a id="nav-tab-job-2" href="#tab-job-2" data-bs-toggle="tab" role="tab"
                                 aria-controls="tab-job-2" aria-selected="false"><img
-                                    src="../../assets/imgs/page/homepage1/marketing.svg" alt="jobBox"> Marketing &amp;
+                                    src="../../assets/imgs/page/homepage1/marketing.svg" alt="EmployZongo"> Marketing &amp;
                                 Sale</a></li>
                         <li><a id="nav-tab-job-3" href="#tab-job-3" data-bs-toggle="tab" role="tab"
                                 aria-controls="tab-job-3" aria-selected="false"><img
-                                    src="../../assets/imgs/page/homepage1/finance.svg" alt="jobBox"> Finance</a></li>
+                                    src="../../assets/imgs/page/homepage1/finance.svg" alt="EmployZongo"> Finance</a></li>
                         <li><a id="nav-tab-job-4" href="#tab-job-4" data-bs-toggle="tab" role="tab"
                                 aria-controls="tab-job-4" aria-selected="false"><img
-                                    src="../../assets/imgs/page/homepage1/human.svg" alt="jobBox"> Human Resource</a>
+                                    src="../../assets/imgs/page/homepage1/human.svg" alt="EmployZongo"> Human Resource</a>
                         </li>
                         <li><a id="nav-tab-job-5" href="#tab-job-5" data-bs-toggle="tab" role="tab"
                                 aria-controls="tab-job-5" aria-selected="false"><img
-                                    src="../../assets/imgs/page/homepage1/retail.svg" alt="jobBox"> Retail &amp;
+                                    src="../../assets/imgs/page/homepage1/retail.svg" alt="EmployZongo"> Retail &amp;
                                 Products</a></li>
                         <li><a id="nav-tab-job-6" href="#tab-job-6" data-bs-toggle="tab" role="tab"
                                 aria-controls="tab-job-6" aria-selected="false"><img
-                                    src="../../assets/imgs/page/homepage1/content.svg" alt="jobBox"> Content Writer</a>
+                                    src="../../assets/imgs/page/homepage1/content.svg" alt="EmployZongo"> Content Writer</a>
                         </li>
                     </ul>
                 </div>
@@ -42,7 +42,7 @@
                                     <div class="card-grid-2-image"><span
                                             class="lbl-hot bg-green"><span>Freelancer</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -72,7 +72,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -101,7 +101,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -132,7 +132,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -161,7 +161,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -189,7 +189,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -223,7 +223,7 @@
                                     <div class="card-grid-2-image"><span
                                             class="lbl-hot bg-green"><span>Freelancer</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -253,7 +253,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -282,7 +282,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -313,7 +313,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -342,7 +342,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -370,7 +370,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -404,7 +404,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -435,7 +435,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -464,7 +464,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -492,7 +492,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -521,7 +521,7 @@
                                     <div class="card-grid-2-image"><span
                                             class="lbl-hot bg-green"><span>Freelancer</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -551,7 +551,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -584,7 +584,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -615,7 +615,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -644,7 +644,7 @@
                                     <div class="card-grid-2-image"><span
                                             class="lbl-hot bg-green"><span>Freelancer</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -674,7 +674,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -703,7 +703,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -731,7 +731,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -765,7 +765,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -796,7 +796,7 @@
                                     <div class="card-grid-2-image"><span
                                             class="lbl-hot bg-green"><span>Freelancer</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -826,7 +826,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -855,7 +855,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -884,7 +884,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -912,7 +912,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -946,7 +946,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img4.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -975,7 +975,7 @@
                                     <div class="card-grid-2-image"><span
                                             class="lbl-hot bg-green"><span>Freelancer</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img1.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -1005,7 +1005,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img2.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -1034,7 +1034,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img3.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -1065,7 +1065,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img5.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>
@@ -1093,7 +1093,7 @@
                                     <div class="card-grid-2-image"><span class="lbl-hot"><span>Full
                                                 time</span></span>
                                         <div class="image-box">
-                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="jobBox">
+                                            <figure><img src="../../assets/imgs/page/homepage2/img6.png" alt="EmployZongo">
                                             </figure>
                                         </div>
                                     </div>

@@ -37,6 +37,7 @@
     @vite('resources/assets/js/plugins/scrollup.js')
     @vite('resources/assets/js/plugins/swiper-bundle.min.js')
     @vite('resources/assets/admin/js/plugins/jquery.circliful.js')
+    @vite('resources/assets/js/main8c94.js?v=4.1')
     @vite('resources/assets/admin/js/main8c94.js?v=4.1')
 </body>
 

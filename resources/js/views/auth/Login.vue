@@ -6,11 +6,11 @@
                     <div class="text-center">
                         <p class="font-sm text-brand-2">Welcome back! </p>
                         <h2 class="mt-10 mb-5 text-brand-1">Member Login</h2>
-                        <p class="font-sm text-muted mb-30">Access to all features. No credit card required.</p>
+                        <!-- <p class="font-sm text-muted mb-30">Access to all features. No credit card required.</p>
                         <button class="btn social-login hover-up mb-20"><img
                                 src="../../../assets/imgs/template/icons/icon-google.svg" alt="Google"><strong>Sign in with
                                 Google</strong></button>
-                        <div class="divider-text-center"><span>Or continue with</span></div>
+                        <div class="divider-text-center"><span>Or continue with</span></div> -->
                     </div>
                     <form class="login-register text-start mt-20" action="#">
                         <div class="form-group">

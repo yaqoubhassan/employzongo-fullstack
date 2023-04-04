@@ -23,7 +23,7 @@
                 <div class="box-improve">
                     <div class="row">
                         <div class="col-lg-5 col-md-12 col-sm-12"><a href="blog-details.html"><img
-                                    src="../../assets/imgs/page/job-single-2/img2.png" alt="jobBox"></a></div>
+                                    src="../../assets/imgs/page/job-single-2/img2.png" alt="EmployZongo"></a></div>
                         <div class="col-lg-7 col-md-12 col-sm-12">
                             <div class="pt-40 pb-30 pl-30 pr-30"><a class="btn btn-tag" href="blog-grid.html">Marketing</a>
                                 <h2 class="mt-20 mb-20"><a href="blog-details.html">Improve Your Business With These 8
@@ -53,7 +53,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img3.png">
                                                 </figure>
                                             </a></div>
@@ -89,7 +89,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img4.png">
                                                 </figure>
                                             </a></div>
@@ -124,7 +124,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img5.png">
                                                 </figure>
                                             </a></div>
@@ -159,7 +159,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img6.png">
                                                 </figure>
                                             </a></div>
@@ -194,7 +194,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img7.png">
                                                 </figure>
                                             </a></div>
@@ -229,7 +229,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img8.png">
                                                 </figure>
                                             </a></div>
@@ -263,7 +263,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img4.png">
                                                 </figure>
                                             </a></div>
@@ -298,7 +298,7 @@
                                 <div class="col-lg-6 mb-30">
                                     <div class="card-grid-3 hover-up">
                                         <div class="text-center card-grid-3-image"><a href="blog-details.html">
-                                                <figure><img alt="jobBox"
+                                                <figure><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/job-single-2/img5.png">
                                                 </figure>
                                             </a></div>
@@ -359,11 +359,11 @@
                                 <div class="post-list-small">
                                     <div class="post-list-small-item d-flex align-items-center">
                                         <figure class="thumb mr-15"><img src="../../assets/imgs/page/blog/img-trending.png"
-                                                alt="jobBox"></figure>
+                                                alt="EmployZongo"></figure>
                                         <div class="content">
                                             <h5>How to get better agents in New York, USA</h5>
                                             <div class="post-meta text-muted d-flex align-items-center mb-15">
-                                                <div class="author d-flex align-items-center mr-20"><img alt="jobBox"
+                                                <div class="author d-flex align-items-center mr-20"><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/homepage1/user1.png"><span>Sugar
                                                         Rosie</span>
                                                 </div>
@@ -377,7 +377,7 @@
                                         <div class="content">
                                             <h5>How To Create a Resume for a Job in Social</h5>
                                             <div class="post-meta text-muted d-flex align-items-center mb-15">
-                                                <div class="author d-flex align-items-center mr-20"><img alt="jobBox"
+                                                <div class="author d-flex align-items-center mr-20"><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/homepage1/user3.png"><span>Harding</span>
                                                 </div>
                                                 <div class="date"><span>17 Sep</span></div>
@@ -391,7 +391,7 @@
                                         <div class="content">
                                             <h5>10 Ways to Avoid a Referee Disaster Zone</h5>
                                             <div class="post-meta text-muted d-flex align-items-center mb-15">
-                                                <div class="author d-flex align-items-center mr-20"><img alt="jobBox"
+                                                <div class="author d-flex align-items-center mr-20"><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/homepage1/user2.png"><span>Steven</span>
                                                 </div>
                                                 <div class="date"><span>23 Sep</span></div>
@@ -405,7 +405,7 @@
                                         <div class="content">
                                             <h5>How To Set Work-Life Boundaries From Any Location</h5>
                                             <div class="post-meta text-muted d-flex align-items-center mb-15">
-                                                <div class="author d-flex align-items-center mr-20"><img alt="jobBox"
+                                                <div class="author d-flex align-items-center mr-20"><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/homepage1/user3.png"><span>Merias</span>
                                                 </div>
                                                 <div class="date"><span>14 Sep</span></div>
@@ -419,7 +419,7 @@
                                         <div class="content">
                                             <h5>How to Land Your Dream Marketing Job</h5>
                                             <div class="post-meta text-muted d-flex align-items-center mb-15">
-                                                <div class="author d-flex align-items-center mr-20"><img alt="jobBox"
+                                                <div class="author d-flex align-items-center mr-20"><img alt="EmployZongo"
                                                         src="../../assets/imgs/page/homepage1/user1.png"><span>Rosie</span>
                                                 </div>
                                                 <div class="date"><span>12 Sep</span></div>
