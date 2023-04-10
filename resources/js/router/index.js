@@ -16,6 +16,8 @@ import Dashboard from '../views/admin/Dashboard.vue'
 import CandidatesList from '../views/admin/Candidates.vue'
 import store from '../store/index.js'
 import ResendVerification from '../views/auth/ResendVerification.vue'
+import Articles from '../views/admin/Articles.vue'
+import CreateArticle from '../components/admin/CreateArticle.vue'
 
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
@@ -61,7 +63,9 @@ const router = createRouter({
             }, children:
                 [
                     { path: '', name: 'dashboard', component: Dashboard, meta: { title: 'Dashboard' } },
-                    { path: 'candidates-list', name: 'candidates-list', component: CandidatesList, meta: { title: 'Candidates' } }
+                    { path: 'candidates-list', name: 'candidates-list', component: CandidatesList, meta: { title: 'Candidates' } },
+                    { path: 'articles', name: 'articles', component: Articles, meta: { title: 'Articles' } },
+                    { path: 'create-article', name: 'create-article', component: CreateArticle, meta: { title: 'Create Article' } }
                 ]
         },
         { path: '/:pathMatch(.*)*', redirect: '/' }
