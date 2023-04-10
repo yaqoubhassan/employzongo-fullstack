@@ -27,6 +27,7 @@
                 <!-- Breadcrumb -->
                 <app-admin-breadcrumb></app-admin-breadcrumb>
                 <router-view></router-view>
+                <vue-progress-bar></vue-progress-bar>
                 <!-- Footer -->
                 <app-admin-footer></app-admin-footer>
             </div>
@@ -54,9 +55,13 @@ export default {
         appAdminSideMenu: AdminSideMenu,
         appAdminBreadcrumb: AdminBreadcrumb
     },
-    mounted() {
+    created() {
         let tags = document.getElementsByTagName('script');
-        tags[1].remove();
+        let styles = document.getElementsByTagName('style');
+
+        // tags[0].remove();
+        // tags[1].remove();
+        // styles[0].remove();
 
         import('../../../assets/admin/css/stylecd4e.css')
 
