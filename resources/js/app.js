@@ -11,6 +11,7 @@ import axios from 'axios';
 import VueSweetalert2 from 'vue-sweetalert2';
 import 'sweetalert2/dist/sweetalert2.min.css';
 import VueProgressBar from "@aacassandra/vue3-progressbar";
+import moment from 'moment/moment';
 
 
 const app = createApp(App);
@@ -26,6 +27,12 @@ const options = {
         termination: 300,
     },
 };
+
+app.config.globalProperties.$filters = {
+    timeAgo(date) {
+        return moment(date).fromNow()
+    },
+}
 
 app
     .component('appBlogsComponent', BlogsComponent)
