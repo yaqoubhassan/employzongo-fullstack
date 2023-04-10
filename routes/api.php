@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ArticleController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\LoginController;
@@ -7,6 +8,7 @@ use App\Http\Controllers\Auth\LogoutController;
 use App\Http\Controllers\UserProfileController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\Auth\VerificationController;
+use App\Http\Controllers\TagController;
 
 /*
 |--------------------------------------------------------------------------
@@ -38,3 +40,6 @@ Route::prefix('auth')->group(function () {
 Route::group(['middleware' => 'auth:api'], function () {
     Route::get('user-profile', [UserProfileController::class, 'showProfile']);
 });
+
+Route::apiResource('tags', TagController::class);
+Route::apiResource('articles', ArticleController::class);
