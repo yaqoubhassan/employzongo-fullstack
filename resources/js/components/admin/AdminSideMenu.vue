@@ -20,8 +20,9 @@
                     </RouterLink>
                 </li>
                 <li>
-                    <RouterLink class="dashboard2" to="/"><img src="../../../assets/admin/imgs/page/dashboard/cv-manage.svg"
-                            alt="employZongo"><span class="name">Articles</span>
+                    <RouterLink class="dashboard2" to="/admin/articles"><img
+                            src="../../../assets/admin/imgs/page/dashboard/cv-manage.svg" alt="employZongo"><span
+                            class="name">Articles</span>
                     </RouterLink>
                 </li>
                 <li>
