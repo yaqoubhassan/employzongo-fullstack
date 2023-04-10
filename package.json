@@ -12,6 +12,7 @@
     "dependencies": {
         "@aacassandra/vue3-progressbar": "^1.0.3",
         "@vitejs/plugin-vue": "^4.0.0",
+        "moment": "^2.29.4",
         "vue": "^3.2.36",
         "vue-loader": "^17.0.1",
         "vue-router": "^4.1.6",
